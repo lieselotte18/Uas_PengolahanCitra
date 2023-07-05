@@ -1,3 +1,5 @@
+Liat Penjelasan dalam Menu code, bukan preview
+
 #### Import library yang diperlukan
 import cv2 as cv
 import numpy as np
