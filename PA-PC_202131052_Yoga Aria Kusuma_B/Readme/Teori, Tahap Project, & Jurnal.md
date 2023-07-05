@@ -15,6 +15,7 @@
 
 2. Menjelaskan tahapan cara menyelesaikan project
     Untuk menyelesaikan proyek yang terkait dengan deteksi garis menggunakan Transformasi Hough Probabilistik dapat mengikuti langkah-langkah berikut:
+   
 A.	Import Library:
 •	Pastikan telah menginstal library OpenCV, NumPy, dan matplotlib. 
 •	Import library yang diperlukan: import cv2 as cv, import numpy as np, import matplotlib.pyplot as plt.
