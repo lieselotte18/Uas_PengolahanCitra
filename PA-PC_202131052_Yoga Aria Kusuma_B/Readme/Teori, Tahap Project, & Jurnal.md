@@ -50,3 +50,6 @@ G.	Eksekusi dan Evaluasi Hasil:
 •	Evaluasi hasilnya dan sesuaikan parameter atau metode deteksi garis jika diperlukan.
 
 3. Jurnal Terkait
+   Link : https://ejournal3.undip.ac.id/index.php/bfd/article/view/5936
+   Link : https://ejournal.gunadarma.ac.id/index.php/infokom/article/view/1527/1286
+   Link : https://doi.org/10.33084/jsakti.v4i1.2545
