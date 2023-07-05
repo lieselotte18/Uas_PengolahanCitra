@@ -1,4 +1,4 @@
-Liat Penjelasan dalam Menu code, bukan preview
+Lihat Penjelasan dalam Menu code, bukan preview
 
 #### Import library yang diperlukan
 import cv2 as cv
